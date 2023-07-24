@@ -1,4 +1,4 @@
-# Sarcasmus detection from Twitter posts
+# Personalized Intended and Perceived Sarcasm Detection on Twitter
 
 ## Requirements:
 
